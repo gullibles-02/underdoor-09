@@ -1,10 +1,13 @@
 {
-  "name": "Nw1WMRp6gR0X8bSK1aJULWWUUYMEJ1nGd1jCUTeBnTMH6MiFLj",
+  "name": "โหลดกองสลากพลัส เล่นที่ไหน - เว็บใหม่ lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.34",
   "description": "โหลดกองสลากพลัส หวยหุ้นจีนเล่นยังไง ด้วย โหลดกองสลากพลัส Lotto ล็อตโต้ หวยออนไลน์ มีหวยทุกชนิด ออกรางวัลยังไง และอัตราจ่ายหวยหุ้นจีนออนไลน์ โหลดกองสลากพลัส",
   "repository": "https://github.com/gullibles-02/underdoor-09",
-  "keywords": ["โหลดกองสลากพลัส","โหลดกองสลากพลัส Lotto"],
+  "keywords": [
+    "โหลดกองสลากพลัส",
+    "โหลดกองสลากพลัส Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
