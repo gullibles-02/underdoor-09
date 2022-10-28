@@ -1,10 +1,13 @@
 {
-  "name": "FhCS4NysbnAUeG00y2EztXwblXOkJoCokdyzMUqS9Uzi1wMj0T",
+  "name": "หวยหุ้นไต้หวันวันนี้ สมัครยังไง - เว็บใหม่ huaydee 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.78",
   "description": "หวยหุ้นไต้หวันวันนี้ หวยลาว หรือ หวยหุ้นไต้หวันวันนี้ Huaydee หวยออนไลน์ อันดับหนึ่ง ຫວຍລາວ หรือ หวยพัฒนา ( ຫວຍພັດທະນາ ) ที่กำลังเป็นที่นิยมอยู่ในขณะนี้ หว",
   "repository": "https://github.com/gullibles-02/underdoor-09",
-  "keywords": ["หวยหุ้นไต้หวันวันนี้","หวยหุ้นไต้หวันวันนี้ Huaydee"],
+  "keywords": [
+    "หวยหุ้นไต้หวันวันนี้",
+    "หวยหุ้นไต้หวันวันนี้ Huaydee"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
