@@ -1,10 +1,13 @@
 {
-  "name": "yv0kttMivuqzX3yQZ91VNNsnb5NSAwsqsfOeKZkBgCEee2HzFO",
+  "name": "สถิติหวยออกวันศุกร์ คืออะไร - เว็บใหม่ huaysod 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.71",
   "description": "สถิติหวยออกวันศุกร์ ผลการออกรางวัล เว้นแต่ สถิติหวยออกวันศุกร์ Huaysod หวยสด หวยออนไลน์ มีหวยทุกชนิด หวยฮานอย ( Xổ Số Hà NộI ) ทั้ง 3 แบบ ฮานอย ปกติฮานอย พ",
   "repository": "https://github.com/gullibles-02/underdoor-09",
-  "keywords": ["สถิติหวยออกวันศุกร์","สถิติหวยออกวันศุกร์ Huaysod"],
+  "keywords": [
+    "สถิติหวยออกวันศุกร์",
+    "สถิติหวยออกวันศุกร์ Huaysod"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
