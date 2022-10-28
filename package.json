@@ -1,10 +1,18 @@
 {
-  "name": "hqGDBe6nx5bOjYkeYwCyRXIxFzAj1Y2PnkjXtiZhiCSHIuxRU1",
+  "name": "หวย อียิปต์ lottohub ทำไมถึงนิยม - เว็บใหม่ choke 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.81",
   "description": "หวย อียิปต์ lottohub หวยนาคาพยากรณ์ จนถึง หวย อียิปต์ lottohub ที่ Choke เว็บหวยออนไลน์ อันดับหนึ่ง วันนี้ 11065 งวดล่าสุด จากอาจารย์ตุ้ยนุ้ย แนวทางหวยรัฐบ",
   "repository": "https://github.com/gullibles-02/underdoor-09",
-  "keywords": ["หวย อียิปต์ LOTTOHUB","หวย","อียิปต์","LOTTOHUB","หวย Choke","อียิปต์ Choke","LOTTOHUB Choke"],
+  "keywords": [
+    "หวย อียิปต์ LOTTOHUB",
+    "หวย",
+    "อียิปต์",
+    "LOTTOHUB",
+    "หวย Choke",
+    "อียิปต์ Choke",
+    "LOTTOHUB Choke"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
