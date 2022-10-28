@@ -1,10 +1,13 @@
 {
-  "name": "FhCS4NysbnAUeG00y2EztXwblXOkJoCokdyzMUqS9Uzi1wMj0T",
+  "name": "ฮั่งเส็งบ่ายย้อนหลัง มีคำตอบ - เว็บใหม่ choke 2023 ล่าสุด-",
   "theme": "syntax",
   "version": "1.0.77",
   "description": "ฮั่งเส็งบ่ายย้อนหลัง ตรวจผลรางวัลหวยหุ้นไต้หวัน เพื่อ ฮั่งเส็งบ่ายย้อนหลัง Choke หวยออนไลน์ อันดับหนึ่ง ผลหวยหุ้นไต้หวัน 100665 ตรวจหวยหุ้นไต้หวันวันนี้ ผล",
   "repository": "https://github.com/gullibles-02/underdoor-09",
-  "keywords": ["ฮั่งเส็งบ่ายย้อนหลัง","ฮั่งเส็งบ่ายย้อนหลัง Choke"],
+  "keywords": [
+    "ฮั่งเส็งบ่ายย้อนหลัง",
+    "ฮั่งเส็งบ่ายย้อนหลัง Choke"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
