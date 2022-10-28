@@ -1,10 +1,20 @@
 {
-  "name": "sBZ5fiJKjCiNOrT9yLoru8GZXp2cBwDBVZF7Cw5aEjGG2WMMed",
+  "name": "วิธีเล่นหวยหุ้น ฮั่ ง เส็ง ทำไมถึงนิยม - เว็บใหม่ huay happy 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.79",
   "description": "วิธีเล่นหวยหุ้น ฮั่ ง เส็ง หวยไทยรัฐ หาก วิธีเล่นหวยหุ้น ฮั่ ง เส็ง Huay Happy หวยแฮปปี้ หวยออนไลน์ มีหวยทุกชนิด ชุดตารางเลขเด่นกำลังมาแรงที่ได้รับความสนใจ",
   "repository": "https://github.com/gullibles-02/underdoor-09",
-  "keywords": ["วิธีเล่นหวยหุ้น ฮั่ ง เส็ง","วิธีเล่นหวยหุ้น","ฮั่","ง","เส็ง","วิธีเล่นหวยหุ้น Huay Happy","ฮั่ Huay Happy","ง Huay Happy","เส็ง Huay Happy"],
+  "keywords": [
+    "วิธีเล่นหวยหุ้น ฮั่ ง เส็ง",
+    "วิธีเล่นหวยหุ้น",
+    "ฮั่",
+    "ง",
+    "เส็ง",
+    "วิธีเล่นหวยหุ้น Huay Happy",
+    "ฮั่ Huay Happy",
+    "ง Huay Happy",
+    "เส็ง Huay Happy"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
